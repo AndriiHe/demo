@@ -1,0 +1,12 @@
+{
+  "name": "portal-example",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Portal example",
+  "scripts": {
+    "start": "portal develop"
+  },
+  "dependencies": {
+    "@redocly/portal": "0.66.1"
+  }
+}
