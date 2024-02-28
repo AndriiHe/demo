@@ -1,4 +1,4 @@
-# Welcome Yaroslav)
+##### Welcome
 ### Hello Yaroslav
 You can use the Redocly editor to customize your developer portal by
 adding Markdown documents and updating the side navigation. You can
