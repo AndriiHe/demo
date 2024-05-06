@@ -1,4 +1,4 @@
-## Welcome to the editor
+## Welcome to the editor))
 
 ))
 You can use the Redocly editor to customize your developer portal by
