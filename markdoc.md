@@ -2,6 +2,7 @@
 
 1
 2
+3
 You can use the Redocly editor to customize your developer portal by
 adding Markdown documents and updating the side navigation. You can
 also update styles by adding a `styles.css` file and reuse content by
