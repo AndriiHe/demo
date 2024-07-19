@@ -1,4 +1,4 @@
-## Welcome to the editor
+## Welcome to the editore
 
 bbb
 
